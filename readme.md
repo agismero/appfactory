@@ -6,7 +6,7 @@ icomoon.io
 
 ## reset
 
-erik meyer [https://meyerweb.com/eric/tools/css/reset/](reset.css)
+erik meyer (https://meyerweb.com/eric/tools/css/reset/)[reset.css]
 
 - box-sizing niet vergeten
 - extra aandacht volgorde inladen css-files
